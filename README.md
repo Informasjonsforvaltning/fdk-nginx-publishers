@@ -1,2 +1,2 @@
 # fdk-nginx-publishers
-Nginx for publisher-services in the FDK domain
+Nginx for publisher-services in the FDK domain.
