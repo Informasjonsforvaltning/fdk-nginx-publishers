@@ -44,9 +44,8 @@ nbproject
 .svn
 .svn/entries
 
-# Mercurial / Subversion
+# Mercurial
 .hg
-.svn
 
 # various files
 ._*
